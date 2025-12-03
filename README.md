@@ -14,7 +14,7 @@ A text-based, turn-based RPG inspired by the classic Pokémon battle system, bui
 ```bash
 javac Main.java
 java Main
-
+```
 # 宝可梦塔文字冒险游戏
 
 一款基于经典宝可梦对战系统开发的纯文字回合制 RPG 游戏，使用 Java 语言完整实现，作为威斯康星大学麦迪逊分校（UW–Madison）CS 200 课程项目二提交。玩家将挑战一座 8 层高塔，与各系宝可梦对战，管理队伍，捕捉击败的敌人，并最终迎战终极 Boss——超梦（Mewtwo）！
@@ -31,6 +31,7 @@ java Main
 ```bash
 javac Main.java
 java Main
+```
 
 Designed & Implemented by Sihua Lu
 University of Wisconsin-Madison
